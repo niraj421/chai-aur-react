@@ -1,6 +1,5 @@
 import React from 'react'
 
-const UserContext = React.createContext() //context is give a provider 
+const UserContext =  React.createContext()
 
-export default UserContext; //usercontext is give a variable
-
+export default UserContext;
